@@ -32,7 +32,4 @@ Este script en Python monitorea el tráfico de red dirigido a la IP local de la 
 2. ▶️ Ejecuta el script con `python nombre_del_script.py`.  
 3. 📡 El script comenzará a monitorear el tráfico y desconectará la red si detecta actividad sospechosa.
 
----
-
-¿Quieres que te prepare un README.md completo para tu repositorio?
 
